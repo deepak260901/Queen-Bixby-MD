@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['919015286428','17502309641']
-global.premium = ['919015286428','17502309641']
-global.ownernomer = ['919015286428','17502309641']
+global.owner = ['919015286428','918287855075']
+global.premium = ['919015286428','918287855075']
+global.ownernomer = ['919015286428','918287855075']
 global.ownername = 'Deepak 🤗'
 global.botname = 'GAPPU ❤️‍🔥 MD'
 global.footer = ' GAPPU 🔥 ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
